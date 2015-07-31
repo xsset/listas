@@ -1,0 +1,44 @@
+@CHARSET "UTF-8";
+table
+{
+	text-align: center;
+	vertical-align: middle;
+	border: 2px solid black;
+}
+body {
+	font-family: "Times New Roman", Times, serif;
+}
+
+input {
+	width: 50px;
+	
+}
+
+.table td {
+    line-height: 0px;
+    text-align: center;
+    vertical-align: middle; 
+   
+}
+.table th p{
+	vertical-align: middle;
+	
+}
+.table th {
+    line-height: 0px;
+    text-align: center;
+    vertical-align: middle;
+	border: 2px solid black; 
+}
+
+.claseBordes {
+   border: 2px solid black; 
+}
+p{
+	margin: 4px;
+}
+h1{
+	letter-spacing: 10px
+}
+//zona universum
+//zona cultural B 1 piso organizacion y sistemas arturo martinez 56226393
